@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="pic/crypto_express.png" alt="Crypto Express Banner" width="600"/>
+</p>
+
+
 # 🧠 News Agents System (NAS)
 
 **News Agents System (NAS)** is a modular multi-agent framework built on top of `uAgents`, designed to autonomously collect, process, analyze, and publish crypto-related news and forecasts into a Telegram channel.
